@@ -1,5 +1,5 @@
 {
-    "name": "yiisoft/yii2-bootstrap4",
+    "name": "switchy/yii2-bootstrap4",
     "description": "The Twitter Bootstrap extension for the Yii framework",
     "keywords": ["yii2", "bootstrap", "bootstrap4"],
     "type": "yii2-extension",
@@ -37,7 +37,7 @@
     ],
     "require": {
         "yiisoft/yii2": "~2.0|~2.1@dev|~3.0@dev",
-        "bower-asset/bootstrap": "~4.0"
+        "bower-asset/bootstrap4": "~4.0"
     },
     "require-dev": {
         "yiisoft/yii2-coding-standards": "~2.0",
